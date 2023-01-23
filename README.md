@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on a Christmas marketplace for local artisans to sell online and the items picked up in the shop. 
+ 
 - 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on community projects that make a difference. 
 - 🤔 I’m looking for help with deploying fullstack with Docker.  
