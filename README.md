@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
-- 🌱 I’m currently learning Angular, Typescript, Next.js.
+- 🌱 I’m currently learning Typescript, Next.js and improving my Javascript.
 - 👯 I’m looking to collaborate on community projects that make a difference. 
 - 📫 How to reach me: www.linkedin.com/in/laura-hesse-a998048a 
 
